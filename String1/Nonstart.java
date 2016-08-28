@@ -1,0 +1,9 @@
+package String1;
+
+public class Nonstart {
+	public String nonStart(String a, String b) {
+		 
+		return a.substring(1)+ b.substring(1);
+	}
+
+}
